@@ -1,0 +1,9 @@
+mse version: 0.3.8
+game: magic
+stylesheet: old
+set info:
+	symbol: 
+styling:
+	magic-old:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 

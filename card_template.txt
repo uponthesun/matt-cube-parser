@@ -1,0 +1,17 @@
+card:
+	has styling: false
+	notes: 
+	time created: 2016-11-02 23:55:59
+	time modified: 2016-11-02 23:56:14
+	name: {name}
+	casting cost: {cost}
+	image: 
+	super type: <word-list-type>{type}</word-list-type>
+	sub type: 
+	rule text:
+		{rules}
+	power: {power}
+	toughness: {toughness}
+	copyright: 
+	image 2: 
+	copyright 2: 
